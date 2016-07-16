@@ -1,3 +1,5 @@
+#isbrowser
+
 A browserify transform to remove server-side code.
 
 [![npm](https://img.shields.io/npm/dm/isbrowser.svg)](https://www.npmjs.com/package/isbrowser)
